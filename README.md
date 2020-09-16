@@ -12,12 +12,12 @@
 ## How to Install:
 - Make sure you have PowerPoint on Windows/Mac (Online and Microsoft Teams are not supported!)
 - Download the latest version in here
-- Open the `Cursor Maze.exe` file
+- Open the `Cursor Maze Setup.exe` file
 - Click `Yes` if you got the User Account Control prompt
 - Agree the License
 - Select the path you want to install Cursor Maze
 - Click `Install`
-- Launch the PowerPoint after you installed Cursor Maze
+- Launch the Cursor Game shortcut or at `C:\Cursor Maze\Cursor Maze.ppsx` after you installed Cursor Maze
 - Done! You are ready to play!
 ---
 ## NOTES
