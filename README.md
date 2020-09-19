@@ -31,7 +31,8 @@
 ## NOTES
 - *Cursor Maze is currently under Beta. It may contain many bugs.
 - After Cursor Maze is released, Mouse Cursor Game will not be supported anymore.
-- Support the developer by contributing in [GitHub](https://github.com/Kygekraqmak/Cursor-Maze).
+- If you want to request new features or report bugs, visit [here](https://github.com/Kygekraqmak/Cursor-Maze/issues).
+- Support the developer by contributing in [GitHub](https://github.com/Kygekraqmak/Cursor-Maze/pulls).
 - If you want to be a collaborator, please contact the developer via Discord (KygekDev#6415).
 - Musics are from AShamaluevMusic and YouTube Audio Library.
 - This project is inspired by [Cursor Adventure](https://www.gamesbytim.com/cursor-adventure/) and other games.
