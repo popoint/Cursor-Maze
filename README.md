@@ -15,7 +15,7 @@
 - Make sure you have PowerPoint 2016 or newer on Windows (Mac, Online, Mobile and Microsoft Teams are not supported!)
 - Download the latest version in [here](https://github.com/Kygekraqmak/Cursor-Maze/releases)
 #### Installer Version (RECOMMENDED):
-- Open the `Cursor Maze Setup.exe` file
+- Open the `Cursor-Maze-Setup.exe` file
 - Click `Yes` if you got the User Account Control prompt
 - Accept the License
 - Select the path you want to install Cursor Maze
@@ -23,7 +23,7 @@
 - Launch the Cursor Maze shortcut or at `C:\Cursor Maze\Cursor Maze.ppsx` after you installed Cursor Maze
 - Done! You are ready to play!
 #### Portable Version:
-- Move the `Cursor Maze Portable.zip` archive to a folder
+- Move the `Cursor-Maze-Portable.zip` archive to a folder
 - Extract the contents
 - Launch the `Cursor Maze.ppsx` file after you extracted the archive
 - Done! You are ready to play!
